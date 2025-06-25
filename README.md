@@ -1,2 +1,23 @@
-# Exploring-NYC-Public-School-Test-Result-Scores
-Every year, school test results impact the college admissions fate of millions of students.  In this project, you will use standardized test performance data from NYC's public schools to identify the schools with top math results, look at how performance varies by borough, and find the city's top ten performing schools!
+# 📈 NYC Public Schools SAT Performance Analysis
+
+## 🧠 Project Overview
+
+Αυτό το έργο αναλύει τα αποτελέσματα SAT (Scholastic Assessment Test) των δημόσιων σχολείων της Νέας Υόρκης, με σκοπό την αναγνώριση των κορυφαίων σχολείων και την αξιολόγηση της επίδοσης ανά γεωγραφική περιοχή (borough). Η ανάλυση πραγματοποιήθηκε με τη χρήση της Python και της βιβλιοθήκης pandas.
+
+🔍 Το project επικεντρώνεται σε τρεις βασικές ερωτήσεις:
+
+1. **Ποια σχολεία έχουν τις καλύτερες επιδόσεις στα μαθηματικά;**
+2. **Ποια είναι τα 10 κορυφαία σχολεία βάσει συνολικού SAT σκορ;**
+3. **Ποιο από τα 5 boroughs της Νέας Υόρκης παρουσιάζει τη μεγαλύτερη τυπική απόκλιση στις συνολικές επιδόσεις;**
+
+---
+
+## 📊 Data Sources
+
+- Δεδομένα SAT με βαθμολογίες σε **math**, **reading** και **writing**
+- Επιπλέον δημογραφικά και τοπογραφικά δεδομένα για τα σχολεία
+- Format: CSV, καθαρισμένο και ενωμένο σε pandas DataFrame
+
+---
+
+
